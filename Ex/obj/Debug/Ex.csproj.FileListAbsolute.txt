@@ -1,0 +1,14 @@
+C:\Users\mathe\source\repos\Ex\Ex\bin\Debug\Ex.exe.config
+C:\Users\mathe\source\repos\Ex\Ex\bin\Debug\Ex.exe
+C:\Users\mathe\source\repos\Ex\Ex\bin\Debug\Ex.pdb
+C:\Users\mathe\source\repos\Ex\Ex\obj\Debug\Ex.csprojAssemblyReference.cache
+C:\Users\mathe\source\repos\Ex\Ex\obj\Debug\Ex.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Ex\Ex\obj\Debug\Ex.exe
+C:\Users\mathe\source\repos\Ex\Ex\obj\Debug\Ex.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Ex\Ex\bin\Debug\Ex.exe.config
+C:\Users\mathe\OneDrive\Área de Trabalho\Ex\Ex\bin\Debug\Ex.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Ex\Ex\bin\Debug\Ex.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Ex\Ex\obj\Debug\Ex.csprojAssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Ex\Ex\obj\Debug\Ex.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Ex\Ex\obj\Debug\Ex.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Ex\Ex\obj\Debug\Ex.pdb
